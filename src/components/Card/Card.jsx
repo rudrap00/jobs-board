@@ -42,7 +42,7 @@ const Card = forwardRef(function (props, ref) {
             {details}
           </div>
           <div className={styles.view}>
-            <a href={jdLink}>View Job</a>
+            <a href="#">View Job</a>
           </div>
         </div>
       </div>
